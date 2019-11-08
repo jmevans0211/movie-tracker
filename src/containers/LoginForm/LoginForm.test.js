@@ -4,9 +4,6 @@ import { shallow } from 'enzyme';
 import { getUser } from '../../utils/apiCalls';
 import { saveUser } from '../../actions/index';
 
-console.log('getUser', getUser)
-console.log('saveUser', saveUser)
-
 describe('LoginFormContainer', () => {
   describe('AddTodoForm component', () => {
     let wrapper;
