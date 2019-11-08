@@ -1,15 +1,15 @@
 # Movie Tracker
 
-Movie Tracker is a React-Redux App allows a user to sign in, see the latest movies, and favorite them for later.
+Movie Tracker is a React-Redux App that allows a user to sign in, see the latest movies, and favorite them for later.
 
-#### Contributors
+### Contributors
 
 [Lacy Rudd](https://github.com/dawnlunacy) , [Jeannie Evans](https://github.com/jmevans0211) , [Quinne Farenwald](https://github.com/qfarenwald)
 
 <img width="1295" alt="movie-tracker" src="https://user-images.githubusercontent.com/48900496/68500723-9bd3ac00-0219-11ea-98c3-7e14ed11c461.png">
 
 
-### Screenshots
+## Screenshots
 <details>
   <summary> Data Mapping & Wireframes </summary>
 
@@ -69,7 +69,7 @@ Favorite Page
 </details>
 
 
-### Tech Stack
+## Tech Stack
 
 - React
 
@@ -80,7 +80,7 @@ Favorite Page
 - React Router.
 
 
-### View the Site
+## View the Site
 
 To view browse movies and see movie details, [click here](https://movie-tracker-je.herokuapp.com/)!
 
