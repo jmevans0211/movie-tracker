@@ -80,19 +80,23 @@ Favorite Page
 - React Router.
 
 
-### Set Up
+### View the Site
 
-Clone repo.
+To view browse movies and see movie details, [click here](https://movie-tracker-je.herokuapp.com/)!
+
+To use site with login and favoriting fatures, follow instructions below.
+
+   Clone repo.
 ```
-git clone https://github.com/jmevans0211/movie-tracker.git
+   git clone https://github.com/jmevans0211/movie-tracker.git
 ```
-Install dependencies.
+   Install dependencies.
 ```
-npm install
+   npm install
 ```
-Run browser.
+   Run browser.
 ```
-npm start
+   npm start
 ```
 
 ### Focuses
