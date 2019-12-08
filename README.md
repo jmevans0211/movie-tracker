@@ -114,3 +114,7 @@ To use site with login and favoriting fatures, follow instructions below.
 - Understand and solidify concepts with React component, asynchronous code, and Redux testing.
 
 - Get more practice doing network requests with a backend.
+
+### More
+
+Go to the original repo at https://github.com/dawnlunacy/movie-tracker to view the complete project board and commit history. This was a group project completed November 2019.
