@@ -7,7 +7,7 @@ export const Header = ({ getFavorites }) => {
 
   return(
     <header className="App-header">
-      <Nav getFavorites= { getFavorites }/>
+      {/* <Nav getFavorites= { getFavorites }/> */}
       <img src={logo} alt="Logo" className="App-img"/>
     </header>
   )
